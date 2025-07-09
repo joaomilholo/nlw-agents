@@ -36,7 +36,7 @@ Projeto **NLW Agents** desenvolvido durante o evento da Rocketseat. Trata-se de 
 
 4. Execute as migrations do banco de dados:
    ```bash
-   npx prisma migrate dev
+   npx 
    ```
 
 5. Inicie o servidor:
